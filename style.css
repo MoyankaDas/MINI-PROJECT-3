@@ -1,0 +1,34 @@
+body{
+    text-align:center;
+    font-family: 'Montserrat', sans-serif;
+}
+.inner{
+    height:300px;
+    width:300px;
+    border-radius: 50%;
+    border:3px solid black;
+}
+.outer{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+button{
+    background-color: black;
+    color:white;
+    height:2.5rem;
+    width:9rem;
+    border-radius: 10px;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+h2{
+    margin-bottom: 40px;
+    border: 2px solid black;
+    width:30%;
+    margin:30px auto;
+    border-radius: 20px;
+    height:2rem;
+    width:15rem;
+}
